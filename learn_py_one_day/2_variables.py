@@ -27,4 +27,3 @@ y = 10
 x = y
 print("x = ", x) # x = 10
 print("y = ", y) # y = 10
-

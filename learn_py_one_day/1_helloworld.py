@@ -7,6 +7,12 @@ print('Hello world!')
 print(3>2)
 # True
 
-# Integrer
+# Integer
 print(3+2)
 # 5
+
+# This is a comment
+
+'''
+This is a comment too
+'''
